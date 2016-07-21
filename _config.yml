@@ -1,0 +1,28 @@
+name: Lubiland
+favicon: null
+layout_spectrum: 0.1419326327741146
+typography_spectrum: 0.976217019604519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1332452141214162
+  lightness: 0.5811941805295646
+  saturation: 0.9287257040850818
+  rhythmicContrast: 0.8180933836847544
+purpose: []
